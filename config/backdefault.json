@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://umrUser:Modb348%21@cluster0-o0eck.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "bahubali the conclusion",
+    "githubClientId": "d9e16cb85913b6af6155",
+    "githubClientSecret": "161d7cb8876867a3941352b7fcdcd57f1df8c022"
+} 
